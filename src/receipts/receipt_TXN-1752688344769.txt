@@ -1,0 +1,13 @@
+🧾 ATINKA MEDS - SALE RECEIPT
+========================================
+Transaction ID: TXN-1752688344769
+Customer ID: CUST001
+Customer Name: Leslie
+Date: 2025-07-16 17:52
+
+Item	Qty	Unit Price	Subtotal
+Amoxicilin	6	2.00		12.00
+
+----------------------------------------
+TOTAL: GHS 12.00
+Thank you for shopping with us!

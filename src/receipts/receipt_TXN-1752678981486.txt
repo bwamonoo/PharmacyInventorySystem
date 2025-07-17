@@ -1,0 +1,13 @@
+🧾 ATINKA MEDS - SALE RECEIPT
+========================================
+Transaction ID: TXN-1752678981486
+Customer ID: CUS001
+Customer Name: Leslie
+Date: 2025-07-16 15:16
+
+Item	Qty	Unit Price	Subtotal
+Paracetamol	2	1.00		2.00
+
+----------------------------------------
+TOTAL: GHS 2.00
+Thank you for shopping with us!
