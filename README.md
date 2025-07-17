@@ -90,12 +90,15 @@ PharmacyInventorySystem/
 
 ---
 
-## ✍️ Author
+## ✍️ Authors
 
-Benjamin Amonoo Wilberforce  
-University of Ghana – Department of Computer Science  
-Course: DCIT308 – Data Structures & Algorithms II  
-Semester: Second Semester, 2024/2025
+1. Benjamin Amonoo Wilberforce  
+2. Derrick Boateng
+3. Fiawoyipe Leslie Elikem
+4. Zephanila Afia Opoku
+5. Baakum Saviour
+6. Sabadu Endurance Offeibea
+7. Stephanie Awurabena Dunyo
 
 ---
 
